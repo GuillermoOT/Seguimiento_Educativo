@@ -1,1 +1,1 @@
-# Seguimiento_Educativo
+# Repositorio Sprint Seguimiento_Educativo
